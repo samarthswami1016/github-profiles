@@ -25,3 +25,19 @@ A simple and interactive web application that fetches and displays GitHub user p
    ```bash
    git clone https://github.com/samarthswami1016/github-profiles.git
    cd github-profiles
+
+## 🔧 How It Works
+
+Enter a GitHub username in the search bar.
+Click the search button or press "Enter."
+The application fetches and displays the user's profile details.
+
+## 🎯 Future Improvements
+Add dark mode support
+Display more user details (e.g., organizations, starred repositories)
+Improve UI/UX with animations and better styling
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
+
+## Made with ❤️ by Samarth Swami
